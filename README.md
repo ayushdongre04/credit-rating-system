@@ -1,4 +1,4 @@
-# Assignment
+# Credit Rating System
 
 ## Prerequisites
 Ensure you have the following installed:
@@ -18,7 +18,7 @@ Ensure you have the following installed:
     ```
     python -m venv .venv
     # On Windows, use venv\Scripts\activate
-    source venv/bin/activate  
+    source venv/bin/activate
     ```
 
 3. Install the requirements:
