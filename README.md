@@ -1,5 +1,4 @@
-# Assignment
-
+# Residential Mortgage Securities (RMBS) Credit Rating
 ## Prerequisites
 Ensure you have the following installed:
 - **Python** (3.13)
@@ -18,7 +17,7 @@ Ensure you have the following installed:
     ```
     python -m venv .venv
     # On Windows, use venv\Scripts\activate
-    source venv/bin/activate  
+    source venv/bin/activate
     ```
 
 3. Install the requirements:
